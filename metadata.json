@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PastPaperPK",
+  "description": "An offline-first application for Pakistani students to easily upload, find, and view past exam papers. Papers are searchable by class, board, subject, and year, with support for offline access to metadata and recently viewed files.",
+  "requestFramePermissions": []
+}
